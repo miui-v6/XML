@@ -9,7 +9,7 @@
            sync-j="4" />
 
   <project path="XML-DEV" name="miui-v6/MIUI-XML-DEV" revision="MIUI6" >
-  <copyfile src="makefile" dest="Makefile" />
+  <copyfile src="extract.sh" dest="Makefile" />
   </project>
   <project path="CHECK" name="miui-v6/MA-XML-CHECK-RESOURCES" />
   <project path="POLOSKAP-V6" name="miui-v6/v6-XML-Compare" />
