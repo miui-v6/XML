@@ -1,2 +1,3 @@
 XML
 ===
+manifest XML repo
