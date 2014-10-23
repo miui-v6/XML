@@ -2,7 +2,4 @@ XML
 ===
 manifest XML repo
 
-mkdir TOOL-XML
-cd TOOL-XML
-repo init -u git://github.com/miui-v6/XML.git -b master
-repo sync
+mkdir TOOL-XML && cd TOOL-XML && repo init -u git://github.com/miui-v6/XML.git -b master && repo sync
