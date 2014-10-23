@@ -17,5 +17,5 @@
   <project path="TOOL-MA-XML-MERGE" name="miui-v6/MA-XML-MERGE" />
   <project path="TOOL-compare-V5" name="miui-v6/v5-XML-Compare" />
   <project path="TOOL-compare-V6" name="miui-v6/compare" />
-  <project path="xml" name="SourceXML" />
+  <project path="xml" name="miui-v6/SourceXML" />
  </manifest>
