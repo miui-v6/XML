@@ -1,3 +1,0 @@
-XML
-===
-manifest XML repo
