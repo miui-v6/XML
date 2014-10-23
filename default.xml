@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="github"
+           fetch=".." />
+
+  <default revision="refs/heads/master"
+           remote="github"
+           sync-j="4" />
+
+  <project path="XML-DEV" name="miui-v6/MIUI-XML-DEV" revision="MIUI6" >
+    <copyfile src="makefile" dest="Makefile" />
+  </project>
+  <project path="CHECK" name="miui-v6/MA-XML-CHECK-RESOURCES" />
+  <project path="POLOSKAP-V6" name="miui-v6/v6-XML-Compare" />
+  <project path="CHECK-V" name="miui-v6/MA-XML-CHECK" />
+  <project path="TOOL-MA-XML-MERGE" name="miui-v6/MA-XML-MERGE" />
+  <project path="TOOL-compare-V5" name="miui-v6/v5-XML-Compare" />
+  <project path="TOOL-compare-V6" name="miui-v6/compare" />
+  <project path="xml" name="SourceXML" />
+ </manifest>
